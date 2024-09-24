@@ -7,20 +7,21 @@ function Skills({ skills }) {
       titulo: "HTML",
       nivel: "Avançado",
       tempoxp: "6 meses",
-      color: "red"
+      color: "#CAA8F5"
+      
     },
     {
       titulo: "Node JS",
       nivel: "Noob",
       tempoxp: "1 meses",
-      color: "blue",
+      color: "#CAA8F5",
       imagemIcone: "/assets/curinthia.png"
     },
     {
       titulo: "Python",
       nivel: "Dó",
       tempoxp: "0 meses",
-      color: "green"
+      color: "#CAA8F5"
     }
   ]
 

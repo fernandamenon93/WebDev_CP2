@@ -3,23 +3,22 @@ import { Link } from "react-router-dom";
 function Header() {
   return (
     <header>
-      <h1>Meu Portifólio</h1>
       <nav>
       <ul>
 		<li>
 			<Link to='/'>Home</Link>
 		</li>
     <li>
-			<Link to='/lista'>Lista de projetos</Link>
+			<Link to='/lista'>Projetos</Link>
 		</li>
 		<li>
-			<Link to='/apresentacao'>Apresentação pessoal</Link>
+			<Link to='/apresentacao'>Sobre Mim</Link>
 		</li>
     <li>
-			<Link to='/contato'>Formulário de contato</Link>
+			<Link to='/contato'>Contato</Link>
 		</li>
 	<li>
-			<Link to='/midias'>Mídias sociais</Link>
+			<Link to='/midias'>Redes Sociais</Link>
 		</li>
 	</ul>
         </nav>

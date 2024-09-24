@@ -1,0 +1,22 @@
+/* styles.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mainInfo {
+    display: flex;
+    flex-direction: column;
+}
+
+#info {
+    margin: 20px;
+}
+
+#info {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
